@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IQuiz App!</string>
+    <string name="instruccion">Todas las preguntas tiene una sola respuesta ,seleccione una segun crea conveniente.</string>
+    <string name="Pregunta3">¿Que figura completa la serie?</string>
+</resources>
